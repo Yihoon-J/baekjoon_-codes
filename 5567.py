@@ -26,4 +26,3 @@ for fr in fr1:
             fr2.append(frfrt)
 
 print(len(fr1)+len(fr2))
-
